@@ -1,7 +1,7 @@
 # MAIN-PROJECT
 Kmct - college of engineering
                                                               Title :Intelligent Wildlife Threat Early Warning System
-Introduction :
+ABSTRACT :
 
 In regions abundant with wild animals such as elephants, tigers, and wild pigs, the delicate balance between human activity and wildlife presence poses a constant threat. Failure to
 promptly detect oncoming wild animals can lead to life-threatening encounters, emphasizing the pressing need for an advanced surveillance and alert system. Traditional monitoring
