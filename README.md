@@ -1,6 +1,8 @@
 # MAIN-PROJECT
 Kmct - college of engineering
                                                               Title :WILDLIFE THREAT EARLY DETECTION AND WARNING SYSTEM
+
+                                                              
 ABSTRACT :
 
 In regions abundant with wild animals such as elephants, tigers, and wild pigs, the delicate balance between human activity and wildlife presence poses a constant threat. Failure to
